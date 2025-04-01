@@ -46,17 +46,6 @@ A Java-based GUI application for Hall Symphony Inc. that manages hall bookings f
 3. Compile the Java files
 4. Run the main application file
 
-## Usage Guide
-```
-java -jar HallBookingSystem.jar
-```
-
-Select your user role and log in with appropriate credentials:
-- **Scheduler**: username - scheduler, password - scheduler123
-- **Administrator**: username - admin, password - admin123
-- **Manager**: username - manager, password - manager123
-- **Customer**: Register through the registration page
-
 
 ## Object-Oriented Concepts Implemented
 - Inheritance and polymorphism in user classes
@@ -65,10 +54,10 @@ Select your user role and log in with appropriate credentials:
 - Design patterns (MVC architecture)
 
 ## Development Team
-- [Team Member 1]
-- [Team Member 2]
-- [Team Member 3]
-- [Team Member 4]
+- [@Kashave]
+- [@Abdulwahab]
+- [@Sunnahboy]
+- [@Benji]
 
 ## Limitations
 - The system operates only during business hours (8:00 AM to 6:00 PM)
