@@ -76,7 +76,8 @@ Select your user role and log in with appropriate credentials:
 - No integration with external payment systems
 
 ## For documentation check out here
-### https://docs.google.com/document/d/1U469yI3aRiU1KUXMU38YQckey6k7rSf-R0K8sIDsGDI/edit?tab=t.0
+### [📄 View Full Documentation](https://docs.google.com/document/d/1U469yI3aRiU1KUXMU38YQckey6k7rSf-R0K8sIDsGDI/edit?tab=t.0)
+
 
 ---
 
