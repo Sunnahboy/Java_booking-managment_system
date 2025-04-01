@@ -55,7 +55,7 @@ A Java-based GUI application for Hall Symphony Inc. that manages hall bookings f
 
 ## Development Team
 - [@Kashave]
-- [@Abdulwahab]
+- [@abdulwahabmoosa]
 - [@Sunnahboy]
 - [@Benji]
 
