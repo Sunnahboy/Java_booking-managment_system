@@ -1,4 +1,4 @@
-# Hall Symphony Booking Management System
+# Hall  Booking Management System
 
 ## Project Overview
 A Java-based GUI application for Hall Symphony Inc. that manages hall bookings for events such as conferences, weddings, and meetings. The system serves four user roles (Scheduler, Customer, Administrator, and Manager) with specific features tailored to each role's responsibilities.
@@ -57,22 +57,6 @@ Select your user role and log in with appropriate credentials:
 - **Manager**: username - manager, password - manager123
 - **Customer**: Register through the registration page
 
-## Project Structure
-```
-src/
-├── controller/  # Controller classes for business logic
-├── model/       # Model classes representing entities
-├── view/        # View classes for GUI components
-├── util/        # Utility classes and helpers
-└── Main.java    # Application entry point
-
-data/
-├── halls.txt           # Hall information
-├── users.txt           # User accounts
-├── bookings.txt        # Booking records
-├── maintenance.txt     # Maintenance schedules
-└── issues.txt          # Customer reported issues
-```
 
 ## Object-Oriented Concepts Implemented
 - Inheritance and polymorphism in user classes
@@ -90,6 +74,9 @@ data/
 - The system operates only during business hours (8:00 AM to 6:00 PM)
 - Text file-based storage has limited scalability for large datasets
 - No integration with external payment systems
+
+## For documentation check out here
+### https://docs.google.com/document/d/1U469yI3aRiU1KUXMU38YQckey6k7rSf-R0K8sIDsGDI/edit?tab=t.0
 
 ---
 
