@@ -1,4 +1,6 @@
 # Hall  Booking Management System
+<img width="384" alt="image" src="https://github.com/user-attachments/assets/730ec6c7-1e4d-4504-94e1-4b69b87efed8" />
+
 
 ## Project Overview
 A Java-based GUI application for Hall Symphony Inc. that manages hall bookings for events such as conferences, weddings, and meetings. The system serves four user roles (Scheduler, Customer, Administrator, and Manager) with specific features tailored to each role's responsibilities.
